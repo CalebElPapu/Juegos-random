@@ -1,0 +1,18 @@
+body{
+    text-align: center;
+    background: linear-gradient(#27ae60 0%,#60ebeb 100%);
+    font-family: fantasy;
+    
+}
+h1{
+    font-size: 40px;
+}
+
+img{
+    width: 500px;
+    height: 500px;
+}
+
+p{
+    font-size: 40px;
+}
